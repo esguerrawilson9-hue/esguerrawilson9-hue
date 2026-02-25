@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="left">Hey there 👋</h1>
 
-<!--
-**esguerrawilson9-hue/esguerrawilson9-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm Wilson, a Video Editor & AI Creative Specialist focused on performance-driven content.
+</p>
 
-Here are some ideas to get you started:
+<p>
+I’ve generated over <strong>50M+ views</strong> across TikTok, Instagram, and YouTube.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Because I don’t just edit videos — I create results.
+</p>
+
+<p>
+If you're just looking for someone to cut clips, I’m probably not the guy.<br/>
+But if you're looking for viral, high-performing content that actually connects with your audience, drives engagement, and converts — you're in the right place.
+</p>
+
+---
+
+## 🚀 What I Bring to the Table
+
+- UGC, Talking Heads, Ads, Short-form & Long-form content  
+- Trend-based editing & performance storytelling  
+- Motion graphics & advanced color grading  
+- Authentic UGC-style edits that drive conversions  
+- Scroll-stopping hooks designed for watch loops & shares  
+- Strategy-to-execution creative workflow  
+
+---
+
+## 🛠 Tools I Use
+
+- After Effects, Capcut  
+- DaVinci Resolve  
+- Canva  
+- Meta Suite
+- Eleven Labs, Higgsfiled, Kling 3, Heygen, Veo 3, Flow, Nano banana etc.   
+- AI Tools & Automation Workflows  
+
+---
+
+## 📈 Results Over Aesthetics
+
+I work with:
+
+- Coaches  
+- Personal Brands  
+- E-commerce Brands  
+
+From strategy to execution, I make sure every frame has purpose.
+
+Every edit is built to:
+- Increase retention  
+- Trigger engagement  
+- Drive conversions  
+
+---
+
+## 📩 Let’s Build Something That Performs
+
+If you're ready to grow your brand with high-performing content,
+
+**Message me.**
