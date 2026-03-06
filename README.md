@@ -4,8 +4,7 @@
 I'm Wilson, a Video Editor & AI Creative Specialist focused on performance-driven content.
 </p>
 
-Check my Portfolio and Works: https://creavert.my.canva.site/
-
+Check my Portfolio and Works: https://wilsonesguerra.com/portfolio
 <p>
 I’ve generated over <strong>50M+ views</strong> across TikTok, Instagram, and YouTube.
 </p>
